@@ -7,6 +7,11 @@ h1 {
     justify-content: center;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
+    background-image: url("https://media1.tenor.com/images/90719b5fd28a0bf648f34bb27a1f98c3/tenor.gif?itemid=11574254");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .column {
@@ -58,9 +63,28 @@ h1 {
 input {
     padding: 5px 10px;
     font-size: 14px;
+    background-image: url("https://media1.tenor.com/images/90719b5fd28a0bf648f34bb27a1f98c3/tenor.gif?itemid=11574254");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 button {
     font-size: 14px;
     padding: 5px 10px;
+    background-image: url("https://media1.tenor.com/images/90719b5fd28a0bf648f34bb27a1f98c3/tenor.gif?itemid=11574254");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+     /* The image used */
+  background-image: url("https://media1.tenor.com/images/90719b5fd28a0bf648f34bb27a1f98c3/tenor.gif?itemid=11574254");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
